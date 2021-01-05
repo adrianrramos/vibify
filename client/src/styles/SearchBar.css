@@ -1,0 +1,16 @@
+.search-icon-bgk {
+  height: 50px;
+  width: 50px;
+  margin: 0 0.25rem;
+  border: 1px solid rgb(26, 32, 44);
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: background-color 300ms ease;
+}
+
+.search-icon-bgk:hover {
+  cursor: pointer;
+  background-color: rgb(74, 85, 104);
+}

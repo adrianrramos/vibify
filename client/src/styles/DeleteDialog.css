@@ -1,0 +1,11 @@
+.portal-title {
+  margin-bottom: 1.5rem;
+}
+
+.delete-controls {
+  margin: 0 auto;
+  margin-top: 2.5rem;
+  width: 55%;
+  display: flex;
+  justify-content: space-between;
+}

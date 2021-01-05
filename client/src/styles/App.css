@@ -1,0 +1,9 @@
+.search-playlist-container {
+  display: flex;
+}
+
+@media only screen and (max-width: 640px) {
+  .search-playlist-container {
+    flex-direction: column-reverse;
+  }
+}

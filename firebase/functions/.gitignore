@@ -1,0 +1,22 @@
+## Compiled JavaScript files
+**/*.js
+**/*.js.map
+
+# Typescript v1 declaration files
+typings/
+
+node_modules/
+
+/node_modules
+
+lib/
+
+/lib
+
+firebase-debug.log
+
+.env
+
+/src/util/vibe-maker-a6ee0-firebase-adminsdk-wkxj5-1e2ff64fac.json
+
+/src/test.js
